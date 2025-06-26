@@ -83,3 +83,18 @@ DropWatch is an SQL-based data project designed to help online learning platform
 
 ---
 
+## Project Impact
+
+### Micro-Level (Individual Learners)
+
+- Enables early detection of disengaged learners based on behavioral data
+- Empowers instructors to follow up with struggling students before they drop out
+- Encourages personalized nudges or academic support using flag-based insights
+
+### Macro-Level (Platform & Institutional Level)
+
+- Reveals high-dropout courses for curriculum improvement
+- Identifies demographic or regional trends in learner success or attrition
+- Supports long-term planning for online course design, learner retention, and educational equity
+
+
